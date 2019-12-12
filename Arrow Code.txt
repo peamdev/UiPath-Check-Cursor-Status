@@ -1,0 +1,3 @@
+65539 = Arrow
+65543 = busy
+65563 = Arrow with loading
